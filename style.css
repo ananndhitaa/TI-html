@@ -1,0 +1,60 @@
+ body{
+        font-family: 'Arial';
+        
+      }
+
+      .atas 
+      {
+         background-color: pink;
+         color: black;
+         padding: 50px;
+         text-align: center;
+      }
+
+      .kiri
+      {
+        background-color: cornflowerBlue;
+        color: black;
+        width: 20%;
+        height: 300px;        
+        float: left;
+      }
+
+      .prodi 
+      {
+        color: brown;
+        font-family: 'Arial';
+        padding-left: 20px;
+        padding-top: 10px;
+      }
+
+      .daftar 
+      {
+        color: white;
+        font-family: 'Arial';
+        padding-left: 20px;
+        
+      }
+
+      .bawahh
+      {
+            background-color: pink;
+            color: black;
+            float: left;
+            padding: 30px;
+            clear: both;
+            text-align: center;
+            width: 100%;
+      }
+
+      .tengah
+      {
+        padding-left: 35px;
+        padding-top: 10px; 
+        background-color: BlanchedAlmon;
+        color: black;
+        width: 70%;
+        height: 250px;
+        float: left;
+
+      }
